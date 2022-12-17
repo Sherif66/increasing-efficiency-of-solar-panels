@@ -1,1 +1,1 @@
-# weather-forecasting-for-renewable-energy-generation
+# energy-prediction-of-solar-panels
