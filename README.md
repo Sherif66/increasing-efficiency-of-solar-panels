@@ -1,1 +1,1 @@
-# increasing efficiency of solar panel
+# increasing efficiency of solar panels
