@@ -15,7 +15,7 @@
 # # Solar Power Generation Forecasting By ANN
 #
 
-
+ffff
 # %% id="-kMcwx2S7jOR"
 import pandas as pd
 import numpy as np
