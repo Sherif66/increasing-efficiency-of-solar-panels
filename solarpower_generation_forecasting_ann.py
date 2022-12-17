@@ -5,13 +5,13 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.6.0
+#       jupytext_ver 1.6.0
 #   kernelspec:
 #     display_name: Python 3
 #     name: python3
-# ---
+# ---ccdcd
 
-# %% [markdown] id="UicUNHNs7wGC"
+# %% [markdown] id="UffficUNHNs7wGC"
 # # Solar Power Generation Forecasting By ANN
 #
 
