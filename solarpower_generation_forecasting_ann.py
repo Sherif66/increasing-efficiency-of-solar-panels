@@ -14,10 +14,7 @@
 # %% [markdown] id="UicUNHNs7wGC"
 # # Solar Power Generation Forecasting By ANN
 #
-#
 
-# %% [markdown] id="EUBRdZEs_Ucx"
-# ## importing libraries
 
 # %% id="-kMcwx2S7jOR"
 import pandas as pd
