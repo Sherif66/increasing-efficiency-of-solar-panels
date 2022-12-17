@@ -15,20 +15,6 @@
 # # Solar Power Generation Forecasting By ANN
 #
 
-ffff
-# %% id="-kMcwx2S7jOR"
-import pandas as pd
-import numpy as np
-import tensorflow as tf
-from keras.layers import Dense, Activation, BatchNormalization, Dropout
-from keras import regularizers
-from keras.optimizers import RMSprop, Adam, SGD
-import datetime
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# %% [markdown] id="k6wzetIP_hgj"
-# ## importing dataset
 
 # %% id="UUYvoox9_gut" executionInfo={"status": "ok", "timestamp": 1601125742608, "user_tz": -330, "elapsed": 3081, "user": {"displayName": "Anant Gupta", "photoUrl": "", "userId": "16039351497174952039"}} outputId="e5fd778a-9df3-401b-f158-24b484072412" colab={"base_uri": "https://localhost:8080/", "height": 224}
 #data_path = r'drive/My Drive/Proj/S.P.F./solarpowergeneration.csv'
