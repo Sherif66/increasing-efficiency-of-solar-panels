@@ -1,1 +1,1 @@
-# energy-prediction-of-solar-panels
+# increasing efficiency of solar panels
