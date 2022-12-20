@@ -24,7 +24,7 @@ void loop() {
 //Get the LDR sensor value
   int ldr2 = analogRead(LDR2);
 
-//Get the difference of these values
+//Get the difference of these value
   int value1 = abs(ldr1 - ldr2);
   int value2 = abs(ldr2 - ldr1);
 
