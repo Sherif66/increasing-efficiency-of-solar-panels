@@ -11,7 +11,7 @@ int Spoint =  90;
 Servo servo;
 
 void setup() {
-//Include servo motor PWM pin
+//Include servo motor PWM 
   servo.attach(11);
 //Set the starting point of the servo
   servo.write(Spoint);
