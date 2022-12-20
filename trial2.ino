@@ -20,6 +20,7 @@ void setup() {
 
 void loop() {
 //Get the LDR sensor value
+    int ldr1 = analogRead(LDR1);
 //Get the LDR sensor value
   int ldr2 = analogRead(LDR2);
 
